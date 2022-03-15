@@ -1,0 +1,4 @@
+[oidentd]
+title=OidentD
+description=A simple ident server
+ports=113/tcp

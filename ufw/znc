@@ -1,0 +1,4 @@
+[ZNC]
+title=ZNC Bouncer
+description=An advanced irc bouncer
+ports=1337/tcp
