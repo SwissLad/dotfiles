@@ -1,0 +1,4 @@
+[7DaysToDieServer]
+title=7 Days To Die Dedicated Server
+description=The dedicated server for the video game 7 Days To Die
+ports=26900/tcp|26900,26901,26902/udp

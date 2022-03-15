@@ -1,0 +1,4 @@
+[TeamSpeak]
+title=TeamSpeak Server
+description=An advanced voice server
+ports=10011,30033/tcp|9987/udp
