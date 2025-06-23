@@ -1,4 +1,5 @@
-# Configs
+# dotfiles
+Config files for various applications.
 
 ## ufw
 Application configs for the ubuntu firewall.
