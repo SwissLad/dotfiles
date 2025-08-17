@@ -6,4 +6,4 @@ Application configs for the ubuntu firewall.
 By default they go in /etc/ufw/application.d
 
 ## .ssh
-Host definitions for OpenSSH.
+Config files for OpenSSH.
